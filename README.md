@@ -17,4 +17,4 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Power BI Dashboard] | Sales reporting visuals | Power BI, Excel
+| Power BI Dashboard | Sales reporting visuals | Power BI, Excel
