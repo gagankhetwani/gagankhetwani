@@ -1,17 +1,14 @@
 # 👋 Hi, I'm Gagan
 
-🎓 Master’s in Economics: Data Science & Policy  
-💼 Reporting Services @ EEX  
-📊 Learning Power BI & VBA  
+🎓 Master’s in Economics: Data Science & Policy
+💼 Working Student @ EEX
+📊 Learning Power BI & Python
 🐍 Python enthusiast | Excel wizard-in-training
 
 
 ## 🚀 What I’m Working On
-- **Power BI Treasury Dashboard**  
-  A dynamic Power BI report visualizing FX exposure, liquidity, and cash flow projections.
-
-- **Excel VBA Tools (coming soon)**  
-  Automating repetitive reporting tasks for EEX's reporting team.
+- **Power BI E-Commerce Sales Dashboard**  
+  A dynamic Power BI report to track and analyze online sales data
 
 - **Forex Strategy Bot (Python)**  
   Building a backtesting tool for double-bottom patterns using historical price data.
@@ -20,6 +17,4 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Power BI Dashboard](https://github.com/YOUR_USERNAME/powerbi-treasury-dashboard) | Treasury reporting visuals | Power BI, Excel |
-| [VBA Toolkits](#) | Automating Excel reports (coming soon) | Excel, VBA |
-| [FX Strategy Bot](#) | Detecting double bottoms, alerts & logs | Python, Pandas
+| [Power BI Dashboard] | Sales reporting visuals | Power BI, Excel
